@@ -117,6 +117,7 @@ body {
   }
   .viewMore a{
     text-transform: lowercase !important;
+    color: #244190;
   }
 footer {
     position: fixed;
